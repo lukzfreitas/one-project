@@ -1,5 +1,5 @@
-import Input from "../Form/Input";
-import Title from "../Typograph/Title";
+import Input from '../Form/Input';
+import Title from '../Typograph/Title';
 
 interface TableProps {
   title: string;
@@ -29,7 +29,7 @@ const Table = (props: TableProps) => {
               id="list-home-list"
               data-toggle="list"
               role="tab"
-              style={{ cursor: "pointer" }}
+              style={{ cursor: 'pointer' }}
               aria-controls="home"
             >
               <div className="row">
@@ -47,7 +47,7 @@ const Table = (props: TableProps) => {
                 id="list-home-list"
                 data-toggle="list"
                 role="tab"
-                style={{ cursor: "pointer" }}
+                style={{ cursor: 'pointer' }}
                 aria-controls="home"
               >
                 <div className="row">
