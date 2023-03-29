@@ -38,7 +38,7 @@ export const DialogTitleStyled = styled.h4`
     margin: 0;
 `;
 
-export const DialogBody = styled.div`
+export const DialogBodyStyle = styled.div`
     padding: 10px;
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
